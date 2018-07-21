@@ -1,0 +1,256 @@
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+C:\Users\RPL206-03\Documents\zdn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+E:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+E:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+E:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+F:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+F:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+F:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+D:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+D:\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+D:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+E:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+G:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+G:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+G:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+F:\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+E:\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+E:\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+E:\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+E:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+G:\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+G:\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+G:\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\vb.net\ketosine\ketosine\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+F:\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+F:\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+F:\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+F:\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\bin\Debug\ketosine.exe
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\bin\Debug\ketosine.pdb
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\bin\Debug\ketosine.xml
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\muhammad ramdan\flashdisk terbaru\vb.net\ketosine\ketosine\obj\x86\Debug\ketosine.siswa.resources
+E:\smk_wk_ramdan\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+E:\smk_wk_ramdan\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+E:\smk_wk_ramdan\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+E:\ \smk_wk_ramdan\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+E:\ \smk_wk_ramdan\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+E:\ \smk_wk_ramdan\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\bin\Debug\ketosine.exe
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\bin\Debug\ketosine.pdb
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\bin\Debug\ketosine.xml
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.inkandidat.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.siswa.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\Rizaldy Sukma P\Code\HTML\DataBase\ketosine\ketosine\obj\x86\Debug\ketosine.Dashboard.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\bin\Debug\ketosine.exe
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\bin\Debug\ketosine.pdb
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\bin\Debug\ketosine.xml
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.Dashboard.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.inkandidat.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.siswa.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\bin\Debug\ketosine.exe
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\bin\Debug\ketosine.pdb
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\bin\Debug\ketosine.xml
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.aturan_dan_cara.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.Dashboard.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.Form1.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.inkandidat.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.siswa.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.utama.resources
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\muhammad junaedi\zidun nitip\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.beranda.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\bin\Debug\ketosine.exe
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\bin\Debug\ketosine.pdb
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\bin\Debug\ketosine.xml
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.beranda.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.inkandidat.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.siswa.resources
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\muhammad ramdan\flashdisk terbaru\pkn new\pkn new\ketosine\ketosine\obj\x86\Debug\ketosine.login.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\bin\Debug\ketosine.exe
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\bin\Debug\ketosine.pdb
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\bin\Debug\ketosine.xml
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.beranda.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.inkandidat.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.login.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.siswa.resources
+E:\zidun nitip\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.exe
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.xml
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.pdb
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\bin\Debug\ketosine.exe
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\bin\Debug\ketosine.pdb
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\bin\Debug\ketosine.xml
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.vbprojResolveAssemblyReference.cache
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.beranda.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.detail.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.detail2.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.detail3.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.inkandidat.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.kandidat.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.login.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.Resources.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.siswa.resources
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.vbproj.GenerateResource.Cache
+D:\Rizaldy Sukma P\Code\HTML\DataBase\pkn\pkn hampir selesai\pkn hampir selesai\ketosine\ketosine\obj\x86\Debug\ketosine.loading.resources
