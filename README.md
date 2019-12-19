@@ -1,8 +1,6 @@
 # Aplikasi Pemilihan Ketua Osis
 Sebuah aplikasi berbasis desktop untuk pemilihan ketua osis pada sekolah.
 
-![Foto Cover](ss_program/index.jpg "Foto Cover Aplikasi Pemilihan Ketua Osis")
-
 ## Fitur
 * Dasboard
 ![Foto Dashboard](ss_program/home.png "Form Dashboard")
@@ -17,9 +15,9 @@ Sebuah aplikasi berbasis desktop untuk pemilihan ketua osis pada sekolah.
 
 ## Info Developer
 Jika ada pertanyaan bisa hubungi kontak dibawah : 
-* [Email](mailto:ramdanzidun@gmail.com) - ramdanzidun@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/rmdnzdn/) - Muhammad Ramdan
-* [Instagram](https://www.instagram.com/rmdnzdn/) - @rmdnzdn
+* [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
+* [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
 
 
 ```
