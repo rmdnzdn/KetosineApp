@@ -1,3 +1,5 @@
+# SUDAH TIDAK MAINTENANCE
+
 # Aplikasi Pemilihan Ketua Osis
 Sebuah aplikasi berbasis desktop untuk pemilihan ketua osis pada sekolah.
 
@@ -13,12 +15,9 @@ Sebuah aplikasi berbasis desktop untuk pemilihan ketua osis pada sekolah.
 * Visual Basic
 * Microsoft Access
 
-## Info Developer
-Jika ada pertanyaan bisa hubungi kontak dibawah : 
+## Credit Developer
 * [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
-* [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
-
 
 ```
 Ku Coding Kau dengan Bismillah
